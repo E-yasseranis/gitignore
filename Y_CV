@@ -1,0 +1,21 @@
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary/backup files
+*.tmp
+*.bak
+~*
+~$*.docx
+
+# Logs
+*.log
+
+# Optional: If you're converting your CV to PDF automatically
+*.pdf
